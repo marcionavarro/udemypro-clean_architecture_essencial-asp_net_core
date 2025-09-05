@@ -1,0 +1,12 @@
+F:\Clean Architecture Essencial - ASP .NET Core com C\Seção 3 Apresentando o problema, o projeto e a solucao\curso_cleanarqvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.deps.json
+F:\Clean Architecture Essencial - ASP .NET Core com C\Seção 3 Apresentando o problema, o projeto e a solucao\curso_cleanarqvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.dll
+F:\Clean Architecture Essencial - ASP .NET Core com C\Seção 3 Apresentando o problema, o projeto e a solucao\curso_cleanarqvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\ref\CleanArchMvc.Infra.IoC.dll
+F:\Clean Architecture Essencial - ASP .NET Core com C\Seção 3 Apresentando o problema, o projeto e a solucao\curso_cleanarqvc\CleanArchMvc.Infra.IoC\bin\Debug\net5.0\CleanArchMvc.Infra.IoC.pdb
+F:\Clean Architecture Essencial - ASP .NET Core com C\Seção 3 Apresentando o problema, o projeto e a solucao\curso_cleanarqvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.csprojAssemblyReference.cache
+F:\Clean Architecture Essencial - ASP .NET Core com C\Seção 3 Apresentando o problema, o projeto e a solucao\curso_cleanarqvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.GeneratedMSBuildEditorConfig.editorconfig
+F:\Clean Architecture Essencial - ASP .NET Core com C\Seção 3 Apresentando o problema, o projeto e a solucao\curso_cleanarqvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.AssemblyInfoInputs.cache
+F:\Clean Architecture Essencial - ASP .NET Core com C\Seção 3 Apresentando o problema, o projeto e a solucao\curso_cleanarqvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.AssemblyInfo.cs
+F:\Clean Architecture Essencial - ASP .NET Core com C\Seção 3 Apresentando o problema, o projeto e a solucao\curso_cleanarqvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.csproj.CoreCompileInputs.cache
+F:\Clean Architecture Essencial - ASP .NET Core com C\Seção 3 Apresentando o problema, o projeto e a solucao\curso_cleanarqvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.dll
+F:\Clean Architecture Essencial - ASP .NET Core com C\Seção 3 Apresentando o problema, o projeto e a solucao\curso_cleanarqvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\ref\CleanArchMvc.Infra.IoC.dll
+F:\Clean Architecture Essencial - ASP .NET Core com C\Seção 3 Apresentando o problema, o projeto e a solucao\curso_cleanarqvc\CleanArchMvc.Infra.IoC\obj\Debug\net5.0\CleanArchMvc.Infra.IoC.pdb
