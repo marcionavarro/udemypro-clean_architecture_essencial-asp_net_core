@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cj6DCksEnnyAAyWlF/OtDpLDuVf4IUWddD4w4tiqfgU8HyekndT3RU1z2vIaMUVvfVEQmbgJ5aafhb2xVEtsNw==",
+  "dgSpecHash": "GiZ9w0osiERzXASgzwMHQCDJhGfbQ+IAggKjHf4YqX1fa+S0C6mRWRO+z11AQ4XFP20anvFHnUdvZRU/98ekxA==",
   "success": true,
   "projectFilePath": "F:\\Clean Architecture Essencial - ASP .NET Core com C\\Seção 3 Apresentando o problema, o projeto e a solucao\\curso_cleanarqvc\\CleanArchMvc.Infra.Data\\CleanArchMvc.Infra.Data.csproj",
   "expectedPackageFiles": [

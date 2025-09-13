@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8wNJEVTb15s959ibaKZX467zFkoiQfYCF5E2cLgCcjMCDQIiv6dN70PFk1iGvfseSy4dC+rYXCsmy6Dn00ojeA==",
+  "dgSpecHash": "8LFpa7Re1/bRSUIRadR5pwm1iF+ccswyQTHdZie/wrbY6rbYmsVJhK8xvU1DFkXWl0yyL5kK8QbaTm1WNpyAoA==",
   "success": true,
   "projectFilePath": "F:\\Clean Architecture Essencial - ASP .NET Core com C\\Seção 3 Apresentando o problema, o projeto e a solucao\\curso_cleanarqvc\\CleanArchMvc.Domain.Tests\\CleanArchMvc.Domain.Tests.csproj",
   "expectedPackageFiles": [
