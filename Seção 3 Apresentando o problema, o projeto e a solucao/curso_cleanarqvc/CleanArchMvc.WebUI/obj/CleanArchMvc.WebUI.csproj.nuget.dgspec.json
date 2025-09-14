@@ -13,6 +13,9 @@
         "packagesPath": "C:\\Users\\saipers\\.nuget\\packages\\",
         "outputPath": "F:\\Clean Architecture Essencial - ASP .NET Core com C\\Seção 3 Apresentando o problema, o projeto e a solucao\\curso_cleanarqvc\\CleanArchMvc.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\saipers\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
