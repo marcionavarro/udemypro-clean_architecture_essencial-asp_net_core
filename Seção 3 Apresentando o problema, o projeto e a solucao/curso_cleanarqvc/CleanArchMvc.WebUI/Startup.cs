@@ -52,7 +52,11 @@ namespace CleanArchMvc.WebUI
             {
                 endpoints.MapControllerRoute(
                     name: "default",
+<<<<<<< HEAD
                     pattern: "{controller=Products}/{action=Index}/{id?}");
+=======
+                    pattern: "{controller=Home}/{action=Index}/{id?}");
+>>>>>>> parent of e65fa52 (Secao 6 - 52. Teste - Registrando os serviços e criando o Controller e View para Category)
             });
         }
     }
