@@ -1,12 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "bLHOZjKnQfboXJC71CQOiVZL4G3lEOSdYy9vAbxY5p8BdKkbaD+9rJaQ84bcdHKnTGM4JV8RCnsj2JMpus+B5g==",
+  "dgSpecHash": "srIBuClBo+oe+Uaa/mGdM69viPTVAcKuZGBSe5UGhNbXkAQJ/iH6q2fjRhplWDEaMTqc/LpahBQOkedQK86J+Q==",
   "success": true,
   "projectFilePath": "F:\\Clean Architecture Essencial - ASP .NET Core com C\\Seção 3 Apresentando o problema, o projeto e a solucao\\curso_cleanarqvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\saipers\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\saipers\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
     "C:\\Users\\saipers\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\saipers\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\saipers\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\saipers\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\saipers\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",
     "C:\\Users\\saipers\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.0.1\\microsoft.data.sqlclient.sni.runtime.2.0.1.nupkg.sha512",

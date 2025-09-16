@@ -400,3 +400,5 @@ F:\Clean Architecture Essencial - ASP .NET Core com C\Seção 3 Apresentando o p
 F:\Clean Architecture Essencial - ASP .NET Core com C\Seção 3 Apresentando o problema, o projeto e a solucao\curso_cleanarqvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Index.cshtml.g.cs
 =======
 >>>>>>> parent of e65fa52 (Secao 6 - 52. Teste - Registrando os serviços e criando o Controller e View para Category)
+F:\Clean Architecture Essencial - ASP .NET Core com C\Seção 3 Apresentando o problema, o projeto e a solucao\curso_cleanarqvc\CleanArchMvc.WebUI\bin\Debug\net5.0\MediatR.dll
+F:\Clean Architecture Essencial - ASP .NET Core com C\Seção 3 Apresentando o problema, o projeto e a solucao\curso_cleanarqvc\CleanArchMvc.WebUI\bin\Debug\net5.0\MediatR.Extensions.Microsoft.DependencyInjection.dll

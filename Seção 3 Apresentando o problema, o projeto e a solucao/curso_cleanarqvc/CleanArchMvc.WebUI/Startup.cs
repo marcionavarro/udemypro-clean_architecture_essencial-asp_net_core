@@ -1,11 +1,6 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 using CleanArchMvc.Infra.IoC;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -52,11 +47,7 @@ namespace CleanArchMvc.WebUI
             {
                 endpoints.MapControllerRoute(
                     name: "default",
-<<<<<<< HEAD
                     pattern: "{controller=Products}/{action=Index}/{id?}");
-=======
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
->>>>>>> parent of e65fa52 (Secao 6 - 52. Teste - Registrando os serviços e criando o Controller e View para Category)
             });
         }
     }
