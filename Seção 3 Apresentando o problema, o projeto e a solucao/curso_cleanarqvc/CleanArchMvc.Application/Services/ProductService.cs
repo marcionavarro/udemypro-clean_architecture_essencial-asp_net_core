@@ -68,7 +68,7 @@ namespace CleanArchMvc.Application.Services
 
         public async Task Remove(int? id)
         {
-            var productRemoveCommand = new GetProductByIdQuery(id.Value);
+            var productRemoveCommand = new ProductRemoveCommand(id.Value);
             if (productRemoveCommand == null)
                 throw new Exception($"Entity could not be loaded");
             await _mediator.Send(productRemoveCommand);

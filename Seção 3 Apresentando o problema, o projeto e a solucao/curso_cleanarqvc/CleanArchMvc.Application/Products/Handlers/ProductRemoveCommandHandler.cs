@@ -21,7 +21,7 @@ namespace CleanArchMvc.Application.Products.Handlers
             var product = await _productRepository.GetByIdAsync(request.Id);
             if (product == null)
             {
-                throw new ApplicationException($"Error could not be found.");
+                throw new ApplicationException($"Entity could not be found.");
             }
             else
             {

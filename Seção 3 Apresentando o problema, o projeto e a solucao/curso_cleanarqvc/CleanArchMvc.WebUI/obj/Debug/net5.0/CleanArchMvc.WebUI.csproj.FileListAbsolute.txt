@@ -403,3 +403,6 @@ F:\Clean Architecture Essencial - ASP .NET Core com C\Seção 3 Apresentando o p
 F:\Clean Architecture Essencial - ASP .NET Core com C\Seção 3 Apresentando o problema, o projeto e a solucao\curso_cleanarqvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Edit.cshtml.g.cs
 F:\Clean Architecture Essencial - ASP .NET Core com C\Seção 3 Apresentando o problema, o projeto e a solucao\curso_cleanarqvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Delete.cshtml.g.cs
 F:\Clean Architecture Essencial - ASP .NET Core com C\Seção 3 Apresentando o problema, o projeto e a solucao\curso_cleanarqvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Categories\Details.cshtml.g.cs
+F:\Clean Architecture Essencial - ASP .NET Core com C\Seção 3 Apresentando o problema, o projeto e a solucao\curso_cleanarqvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Create.cshtml.g.cs
+F:\Clean Architecture Essencial - ASP .NET Core com C\Seção 3 Apresentando o problema, o projeto e a solucao\curso_cleanarqvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Edit.cshtml.g.cs
+F:\Clean Architecture Essencial - ASP .NET Core com C\Seção 3 Apresentando o problema, o projeto e a solucao\curso_cleanarqvc\CleanArchMvc.WebUI\obj\Debug\net5.0\Razor\Views\Products\Delete.cshtml.g.cs
